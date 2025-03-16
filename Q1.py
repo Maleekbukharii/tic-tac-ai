@@ -4,9 +4,9 @@ import sys
 
 pygame.init()
 
-WIDTH, HEIGHT = 400, 400
+WIDTH, HEIGHT = 450, 450
 LINE_WIDTH = 10
-BOARD_ROWS, BOARD_COLS = 3, 3  # Updated to 3x3
+BOARD_ROWS, BOARD_COLS = 3, 3
 CELL_SIZE = WIDTH // BOARD_COLS
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
